@@ -1,0 +1,4 @@
+# This list involves function `PROCESS-NAME`. Please use surge for best compatibility
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,youtube.com
+PROCESS-NAME,/Applications/Resilio Sync.app/Contents/MacOS/Resilio Sync
